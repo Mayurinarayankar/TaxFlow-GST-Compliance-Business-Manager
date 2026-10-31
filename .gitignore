@@ -1,0 +1,35 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Entity Framework Migrations (Optional: uncomment if you want to keep migrations out of repo, but usually they are committed)
+# Migrations/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Environment variables (NEVER commit these!)
+appsettings.Development.json
+.env
+*.env
+
+# Mac/Linux OS files
+.DS_Store
+Thumbs.db

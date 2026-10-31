@@ -1,0 +1,6 @@
+@TaxFlow.API_HostAddress = http://localhost:5023
+
+GET {{TaxFlow.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
